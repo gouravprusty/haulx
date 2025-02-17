@@ -392,9 +392,10 @@ ol {
 .hero_contents {padding: 30px 0;}
 .hero_text h2 {font-size: 26px;}
 .hero_img_mob {display: block;border-radius: 16px;margin: 30px auto 0;width: 80%;}
-.hero_text h1{font-size: 40px; letter-spacing: 1px;}
+.hero_text h1{font-size: 46px; letter-spacing: 1px;}
 .about {padding: 30px 0;scroll-margin-top: 59px;}
 .about_left{width: 100%; text-align: center;}
+.about_left p span {font-size: 22px;margin-bottom: 5px;}
 .about_img{display: none;}
 .about_img_mob{display: block; border-radius: 16px;margin: 20px auto 0;width: 80%;}
 .about_left h1{font-size: 32px;}
